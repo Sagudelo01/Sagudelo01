@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Santiago Agudelo</h1>
-<h3 align="center">Frontend Developer · React · TypeScript · Tailwind CSS · Pereira, Colombia</h3>
+<h3 align="center">Full Stack Developer · React · TypeScript · Node.js · Laravel · Pereira, Colombia</h3>
 
 ---
 
 ### 👨‍💻 About me
 
-- 🔭 Frontend developer building responsive, user-focused web apps with React, Next.js and Tailwind CSS.
-- 🧩 Comfortable across the stack: Node.js, Laravel, Supabase and MySQL.
+- 🔭 Full Stack developer building responsive, user-focused web apps — React, Next.js and Tailwind on the frontend; Node.js, Laravel and Supabase on the backend.
+- 🧩 Comfortable end-to-end: REST APIs, authentication and relational databases (MySQL, Supabase / Postgres).
 - 🌱 Currently sharpening advanced React patterns, Next.js and web performance.
 - 👨‍🏫 I also teach web development (HTML, CSS, JavaScript, React) to new developers.
-- 💬 Ask me about React, TypeScript, JavaScript, CSS and UI/UX.
+- 💬 Ask me about React, TypeScript, JavaScript, Node.js, Laravel and UI/UX.
 - 📫 Reach me at andresagudelolon2003@gmail.com
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,laravel,supabase,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,laravel,php,supabase,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -27,10 +27,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagudelo01&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagudelo01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagudelo01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
